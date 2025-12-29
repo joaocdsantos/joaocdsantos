@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm João Santos
 
-<!--
-**joaocdsantos/joaocdsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer**
 
-Here are some ideas to get you started:
+Personal repository for learning, practicing and testing technologies.  
+Requirements Engineering & Patterns
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 About
+Projects here are for personal projects, skill improvement and exploring different ideas.  
+Check the pinned repos.
+
+---
