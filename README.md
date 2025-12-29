@@ -8,7 +8,7 @@ Requirements Engineering & Patterns
 ---
 
 ## 💡 About
-Projects here are for personal projects, skill improvement and exploring different ideas.  
+Projects here are focused on personal development, skill improvement and exploring new ideas.
 Check the pinned repos.
 
 ---
